@@ -1,6 +1,6 @@
 <div align="center">
   <pre>
-    <a href="https://www.mfgultekin.com"><img src="https://raw.githubusercontent.com/lifantel/lifantel/main/favicon1.jpg" alt="mfgultekin.com'a Git" width="75"/></a> 
+    <a href="https://www.mfgultekin.com"><img src="https://raw.githubusercontent.com/lifantel/lifantel/main/favicon1.png" alt="mfgultekin.com'a Git" width="75"/></a> 
     <a>Click icon to go to my blog site</a>
   </pre>
   
