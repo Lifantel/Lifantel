@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.mfgultekin.com">
-    <img src="https://raw.githubusercontent.com/lifantel/lifantel/main/favicon1.png" alt="mfgultekin.com'a Git" width="200"/>
+    <img src="https://raw.githubusercontent.com/lifantel/lifantel/main/favicon1.png" alt="mfgultekin.com'a Git" width="100"/>
   </a>
   
   <picture>
