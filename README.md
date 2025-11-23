@@ -2,10 +2,6 @@
   
   <a href="https://www.mfgultekin.com">
     <img src="https://raw.githubusercontent.com/lifantel/lifantel/main/favicon1.png" alt="mfgultekin.com'a Git" width="100"/>
-  </a>
-  
-  <br> 
-  
   <a href="https://x.com/MehmetFatih_7" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter) Profilim"/>
   </a><a href="https://www.reddit.com/user/Lifantel" target="_blank">
